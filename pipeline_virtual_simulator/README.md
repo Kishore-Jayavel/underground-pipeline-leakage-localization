@@ -28,7 +28,7 @@ You can also double-click `RUN_SIMULATOR.bat`.
 6. Turn the pump OFF briefly to show that pump context prevents a false alarm.
 7. Turn the pump ON and finish with Zone 3.
 
-## Connect Monika's dashboard
+## Connect dashboard
 
 Read live values from:
 
